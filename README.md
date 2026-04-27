@@ -1,25 +1,18 @@
 <h1 align="center">Hi, I'm Vishal Bansal 👋</h1>
 <h3 align="center">Strategic Engineering Leader & Data Platform Architect</h3>
 
-- 👀 I’m interested in System Design, Data & Cloud Architecture (GCP, Databricks), and developing analytics BI tools with popular UI frameworks.
+- 👀 I’m interested in System Design, Data & Cloud Architecture (GCP, Databricks), and developing analytics BI tools with popular frameworks.
 - 🌱 I’m currently learning Gen AI with Python
 
 [//]: # (- 📫 How to reach me - &nbsp; <a target="_blank" href="https://www.linkedin.com/in/thatsvb/" ><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="linkedin" height="25" width="25" /></a>)
 
 ---
 
-### 👨‍💻 About Me
-Strategic Engineering Leader with 12+ years of experience scaling enterprise data platforms and driving cloud-native transformations within the financial services sector. Proven track record of building and managing high-performing engineering teams (12+ members), orchestrating complex cloud migrations (GCP & Databricks), and delivering high-impact analytics systems. 
-Adept at bridging the gap between technical execution and business strategy to optimize operational costs, improve system reliability, and accelerate time-to-market.
-
 ### 🌟 Areas of Expertise
 * 👥 **Engineering Leadership:** Team Building & Mentoring, Technical Strategy, Cloud Migration, Agile Delivery, Stakeholder Management, Cross-Functional Collaboration.
 * ☁️ **Data & Cloud Architecture:** GCP, AWS, Databricks, Apache Spark, PySpark, Hadoop, Kafka, Big Data Pipelines, Data Lakehouse Architecture.
 * 🗄️ **Data Modeling & Engineering:** ELT/ETL Pipelines, Dimensional Modeling, Advanced SQL, Data Quality Frameworks, Workflow Orchestration.
 * 🛠️ **DevOps & Observability:** CI/CD pipelines, Docker, Jenkins, Splunk, System Resilience.
-
-### 🎓 Education
-* **Bachelors of Technology (Electronics & Communications)** - Punjabi University Patiala *(Jul 2010 - May 2014)*
 
 ### ✍️ Recent Articles
 * 📖 [Unlocking Financial Data: Building a RAG Pipeline with Langchain and Gemini](https://medium.com/@imbansalvishal/unlocking-financial-data-building-a-rag-pipeline-with-langchain-and-gemini-1a1441f95c70)
